@@ -17,59 +17,39 @@ position: relative;
 }
 .punto{
 
-width: 50px;
-height: 50px;
+width: 40px;
+height: 40px;
 background-color: blue;
-border-radius: 50%;
+border-radius: 40%;
     position: absolute;
     
 }
-#puerta-vino{
-top:910px;
-    left:500px;
-}
+
 .descripcion{
 width: 200px;
 position: absolute;
     left: 50px;
     top:-20px;
     background-color: azure;
-    visibility: hidden;
+        visibility: hidden;
+
 }
 .punto:hover .descripcion{
 visibility: visible;
 }
-.punto1{
-width: 40px;
-height: 40px;
-background-color: blue;
-border-radius: 40px;
-position: absolute;
 
-}
-#la-galana{
+
+
+
+/*puntos*/
+/*#la-galana{
 top:700px;
 left:500px;
+}*/
+#puerta-vino{
+top:910px;
+left:500px;
 }
-.descripcion1{
-width: 200px;
-position: absolute;
-left: 500px;
-top:700px;
-background-color: azure;
-visibility:hidden;
-}
-.punto1:hover .descripcion1{
-visibility: visible;
-}
-.punto2{
-width: 40px;
-height: 40px;
-background-color: blue;
-border-radius: 40px;
-position: absolute;
-}
-#el-gañan{
 
-}
+
 
