@@ -41,14 +41,25 @@ visibility: visible;
 
 
 
+
+
 /*puntos*/
-/*#la-galana{
-top:700px;
-left:500px;
-}*/
+
 #puerta-vino{
 top:910px;
 left:500px;
+}
+#galana{
+top:700px;
+left:500px;
+}
+#gañan{
+ top:1000px;
+left: 100px;
+}
+#Obelisco{
+top:600px;
+left: 450px;
 }
 
 
